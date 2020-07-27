@@ -54,7 +54,7 @@ The Monte-Carlo simulators are extended to explore total clone sizes including d
 - subsampling-clones-overtime.m : partitions simulated clones into random subsets (sampling by random permutation from the pool of simulated data), for the purpose of confidence interval calculations (alternative version).
 - rotateXLabels.m : allows rotating x-axis tick labels. Imported from MathWorks. See license details in: Ben Tordoff (2020). rotateXLabels( ax, angle, varargin ) (https://www.mathworks.com/matlabcentral/fileexchange/27812-rotatexlabels-ax-angle-varargin), MATLAB Central File Exchange. Retrieved July 6, 2020.
 
-- ==Datasets== folder : contains experimental lineage tracing data and previously calculated log-likelihood values for a large collection of parameter values both for WT and mutant populations.
+- `Datasets` folder : contains experimental lineage tracing data and previously calculated log-likelihood values for a large collection of parameter values both for WT and mutant populations.
 
 ### Requirements
 Matlab R2016b
