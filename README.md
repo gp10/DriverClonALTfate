@@ -61,5 +61,8 @@ The Monte-Carlo simulators are extended to explore total clone sizes including d
 - `Datasets` folder : contains experimental lineage tracing data and previously calculated log-likelihood values for a large collection of parameter values both for WT and mutant populations.
 
 ### Requirements
-Matlab R2016b
+- Matlab (built on version R2016b and tested on R2016b & R2020b)
+- No dependencies needed
+- Runs on all OS
+
 
